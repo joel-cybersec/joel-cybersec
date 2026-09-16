@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Joel 👋
 
-<!--
-**joel-cybersec/joel-cybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning cybersecurity with a focus on web application security,
+penetration testing, and bug bounty hunting.
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web application security
+- Burp Suite
+- Linux & networking
+- Python
+- Reconnaissance
+- Vulnerability research
+
+## Journey
+
+🔐 [My Bug Bounty Journey](https://github.com/joel-cybersec/bug-bounty-journey)
+
+I'm documenting my progress, practical labs, projects,
+and things I learn along the way.
