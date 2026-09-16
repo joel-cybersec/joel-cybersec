@@ -14,7 +14,7 @@ penetration testing, and bug bounty hunting.
 
 ## Journey
 
-🔐 [My Bug Bounty Journey](https://github.com/joel-cybersec/bug-bounty-journey)
+🔐 [Follow my Journey!](https://github.com/joel-cybersec/bug-bounty-journey)
 
 I'm documenting my progress, practical labs, projects,
 and things I learn along the way.
