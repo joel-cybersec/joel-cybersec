@@ -18,5 +18,6 @@ penetration testing, and bug bounty hunting.
 
 🔐 [My practical work](https://github.com/joel-cybersec/security-writeups)
 
+
 I'm documenting my progress, practical labs, projects,
 and things I learn along the way.
